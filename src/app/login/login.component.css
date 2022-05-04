@@ -53,17 +53,6 @@ h1 {
     padding: 100px 75px 0px 250px;
 }
 
-.forgot-password {
-    color: #808080;
-    text-decoration: none;
-}
-
-.forgot-password:hover {
-    color: #808080;
-    text-decoration: underline;
-    transition: all 0.3s ease-in-out;
-}
-
 .under-btn p {
     display: inline;
 }
